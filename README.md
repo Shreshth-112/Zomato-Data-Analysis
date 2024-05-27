@@ -1,4 +1,5 @@
 ## Zomato-Data-Analysis ✨✨<br />
+Download all files and run zomato-data-analysis(copy).ipnyb file
 Helping Zomato segregate restaurants according to the data collected from the masses.<br />
 🍱🍱🍱🍱🍱
 <br />
